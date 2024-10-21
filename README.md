@@ -10,7 +10,7 @@ The primary objective is to predict the age of abalones using physical measureme
 •	Evaluate model performance using appropriate regression metrics and select the best model for prediction.
 
 3. Data Sources:
-The dataset used for this project is the popular Abalone Dataset available on UCI Machine Learning Repository. It contains physical characteristics of abalones, including their length, diameter, height, whole weight, shucked weight, viscera weight, shell weight, and the number of rings (which correlates with age).
+The dataset used for this project is the popular Abalone Dataset available on Kaggle. It contains physical characteristics of abalones, including their length, diameter, height, whole weight, shucked weight, viscera weight, shell weight, and the number of rings (which correlates with age).
 
 4. Project Workflow:
 •	Data Cleaning and Preprocessing: Handle missing values (if any), scale numerical features, and encode the categorical variables (like sex of the abalone: M/F/I).
